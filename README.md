@@ -36,19 +36,12 @@ I am a results-driven Senior Software Engineer with **8+ years of experience** b
 
 ### 📊 **GitHub Statistics**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app" alt="VimLeSai's GitHub stats" />
-</p>
+![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VimLeSai&hide=contribs,prs)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
-</p>
 
 ### 🔥 Contribution Streak
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=VimLeSai)](https://git.io/streak-stats)
 
 ---
 
