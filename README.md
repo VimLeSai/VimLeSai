@@ -15,9 +15,7 @@
 [![npm](https://img.shields.io/badge/npm-vimlesai-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/~vimlesai)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desai.vimal250@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=VimLeSai&label=Profile+views&color=c8420a&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/VimLeSai?label=Followers&style=flat-square&color=1a4a8a)
-![Public repos](https://img.shields.io/github/search/VimLeSai/user:VimLeSai?label=&style=flat-square&color=555)
 
 </div>
 
@@ -43,7 +41,7 @@ shipping: Frontend, backend & shared component libraries for an enterprise asset
 - 🧵 &nbsp; Building **Filori**, a multi-tenant ERP for Indian textile & manufacturing businesses
 -->
 
-- ⚡ &nbsp; Used AI tooling to take sprint output from **16 → 30+ story points**
+- ⚡ &nbsp; Rebuilt my delivery workflow around AI tooling: **~5× sprint output**
 - 🚀 &nbsp; Led **platform-wide zero-downtime deployments** as Release Engineer
 - 🥉 &nbsp; **3rd place**, internal AI Hackathon (POC for data consistency at scale)
 - 🏆 &nbsp; **Leader of the Month** for ownership, innovation, and cross-functional impact
@@ -62,7 +60,7 @@ shipping: Frontend, backend & shared component libraries for an enterprise asset
     <td align="center"><h2>40+</h2><sub>engineering<br/>interviews run</sub></td>
   </tr>
   <tr>
-    <td align="center"><h2>1.9×</h2><sub>sprint velocity<br/>(16 → 30+ pts)</sub></td>
+    <td align="center"><h2>5×</h2><sub>delivery velocity with<br/>AI-augmented workflow</sub></td>
     <td align="center"><h2>0</h2><sub>downtime releases<br/>as Release Engineer</sub></td>
     <td align="center"><h2>5</h2><sub>industries<br/>shipped into</sub></td>
     <td align="center"><h2>1</h2><sub>microservice spun out<br/>as its own product</sub></td>
@@ -137,17 +135,22 @@ DevOps     →  AWS (EC2, S3, Lambda) · Docker · Kubernetes · GitHub Actions 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VimLeSai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimLeSai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VimLeSai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimLeSai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=VimLeSai&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<p>
+  <img src="https://streak-stats.demolab.com?user=VimLeSai&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VimLeSai&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=VimLeSai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" alt="Trophies"/>
+<p>
+  <img src="https://ghchart.rshah.org/c8420a/VimLeSai" alt="Contribution heatmap" width="95%"/>
+</p>
 
 </div>
 
+<!-- Snake animation: uncomment after the snake.yml workflow has run once
 <div align="center">
 
 <picture>
@@ -157,6 +160,7 @@ DevOps     →  AWS (EC2, S3, Lambda) · Docker · Kubernetes · GitHub Actions 
 </picture>
 
 </div>
+-->
 
 ---
 
